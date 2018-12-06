@@ -1,4 +1,6 @@
 .DS_Store
 .cache*
 .Rhistory
+.ipynb_checkpoints/
+
 data/api-keys.json
